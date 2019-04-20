@@ -294,3 +294,20 @@ target = train['Survived']
 print(train_data.shape)
 print(target.shape)
 print(train.info)
+#==========1달뒤 코드 재 추가=====
+
+from sklearn.neighbors import  KNeighborsClassfier
+from sklearn.tree import  DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklean.naive_bayes import GaussianNB
+from sklearn.svm import SVC
+
+from sklearn.model_selection
+from sklearn.model
+k_fold=KF
+
+
+
+
+
+#0.8097
